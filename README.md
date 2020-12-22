@@ -5,8 +5,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Automating Web Application tests
-- 🌱 I’m currently learning Serenity and Karate framework
+- 🔭 Currently working on:  Automating Web Application Tests
+- 🌱 Presently learning: Karate framework, NodeJS
 
 - 💬 I dabble in Java and Python.
 
