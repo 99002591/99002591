@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 - 💬 I dabble in Java and Python.
 
 - ⚡ Additonal Skills: 
-   -- Selenium
-   -- Serenity 
-   -- Cucumber BDD
-   -- Rest-assured
-   -- Postman
-   -- Test Automation
-   -- HTML, CSS, JavaScript
-   -- NodeJS
+   >- Selenium
+   >- Serenity 
+   >- Cucumber BDD
+   >- Rest-assured
+   >- Postman
+   >- Test Automation
+   >- HTML, CSS, JavaScript
+   >- NodeJS
 
 - 📫 Want to reach me? Can do so at dasamit98@gmail.com
 
