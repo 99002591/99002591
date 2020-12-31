@@ -5,7 +5,7 @@
 -->
 
 - 🔭 Currently professionally working on:  Automating Web Application Tests
-- 🌱 Presently learning: Ffull-stack web developement (HTML, CSS, Javascript, Node, React, MongoDB)
+- 🌱 Presently learning: Full-stack web developement (HTML, CSS, Javascript, Node, React, MongoDB)
 
 - 💬 I dabble in Java and Python.
 
